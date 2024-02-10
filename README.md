@@ -2,13 +2,7 @@
 <h3 align="center">Passionate website developer seeking new opportunities to contribute skills and expertise to your team.</h3>
 
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
-- 👨‍💻 All of my projects are available at [https://sameeruranw.netlify.app/project](https://sameeruranw.netlify.app/project)
 
-- 📝 I regularly write articles on [https://sameeruranw.hashnode.dev/](https://sameeruranw.hashnode.dev/)
-
-- 📫 How to reach me **sameeruranw81@gmail.com**
-
-- 📄 Know about my experiences [file:///C:/Users/Dell/Downloads/Sameer-Uranw-cv%20(2).pdf](file:///C:/Users/Dell/Downloads/Sameer-Uranw-cv%20(2).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
